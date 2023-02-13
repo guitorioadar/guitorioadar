@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, I am Shaikh Was Sadman
 #### Professional React Native and Native( Android, iOS ) Developer
 ![Professional React Native and Native( Android, iOS ) Developer](https://github.com/guitorioadar/guitorioadar/blob/main/banner.png?raw=true)
